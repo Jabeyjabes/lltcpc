@@ -68,10 +68,9 @@
 				FavorSizeOrSpeed="2"
 				WholeProgramOptimization="false"
 				KeepComments="false"
-				RuntimeLibrary="2"
+				RuntimeLibrary="0"
 				EnableFunctionLevelLinking="true"
 				WarningLevel="3"
-				DebugInformationFormat="3"
 			/>
 			<Tool
 				Name="VCManagedResourceCompilerTool"
