@@ -15,7 +15,7 @@ int main(int argc, char **argv)
 Options:\n\
 	\t-c	\t-Disable converting data (from string to digit).\n\
 	\t-s	\t-Silent mode. No any messages - only exit code.\n\
-	\t-n N	\t-Show only one byte with number N of digit, from responce of server. That byte is also as exit code.\n\
+	\t-n N	\t-Show only one byte with number N of digit, from responce of server. That byte is also must be exit code.\n\
 	\t-t X	\t-X - digit, the time to wait response from server in [ms]\n\
 Address - TCP/IP: DNS name | IP \n\
 Port - digit\n\
