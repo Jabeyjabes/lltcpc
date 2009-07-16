@@ -65,7 +65,7 @@
 				Optimization="2"
 				InlineFunctionExpansion="1"
 				EnableIntrinsicFunctions="true"
-				FavorSizeOrSpeed="2"
+				FavorSizeOrSpeed="1"
 				WholeProgramOptimization="false"
 				KeepComments="false"
 				RuntimeLibrary="0"
